@@ -128,3 +128,13 @@ guessing_game/target/rls/debug/build/libc-5fb6936c7aeb2bdf/stderr
 guessing_game/target/rls/debug/build/libc-9249ff812f57807b/build-script-build
 guessing_game/target/rls/debug/build/libc-9249ff812f57807b/build_script_build-9249ff812f57807b
 guessing_game/target/doc/SourceSerifPro-LICENSE.md
+variables/target/debug/.cargo-lock
+variables/target/debug/variables
+variables/target/debug/.fingerprint/variables-cef2647b24a2e224/bin-variables
+variables/target/debug/.fingerprint/variables-cef2647b24a2e224/dep-bin-variables
+variables/target/debug/deps/variables-cef2647b24a2e224
+variables/target/rls/debug/.cargo-lock
+variables/target/rls/debug/.fingerprint/variables-80718e83357c446a/bin-variables
+variables/target/rls/debug/.fingerprint/variables-80718e83357c446a/dep-bin-variables
+variables/target/rls/debug/.fingerprint/variables-ccb28433841b675c/dep-test-bin-variables
+variables/target/rls/debug/.fingerprint/variables-ccb28433841b675c/test-bin-variables

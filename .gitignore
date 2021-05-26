@@ -138,3 +138,14 @@ variables/target/rls/debug/.fingerprint/variables-80718e83357c446a/bin-variables
 variables/target/rls/debug/.fingerprint/variables-80718e83357c446a/dep-bin-variables
 variables/target/rls/debug/.fingerprint/variables-ccb28433841b675c/dep-test-bin-variables
 variables/target/rls/debug/.fingerprint/variables-ccb28433841b675c/test-bin-variables
+functions/target/debug/.cargo-lock
+functions/target/debug/functions
+functions/src/main.rs
+functions/target/debug/.fingerprint/functions-37c78f499d504a2f/bin-functions
+functions/target/debug/.fingerprint/functions-37c78f499d504a2f/dep-bin-functions
+functions/target/debug/deps/functions-37c78f499d504a2f
+functions/target/rls/debug/.fingerprint/functions-6619127e9983bbeb/dep-test-bin-functions
+functions/target/rls/debug/.cargo-lock
+functions/target/rls/debug/.fingerprint/functions-6619127e9983bbeb/test-bin-functions
+functions/target/rls/debug/.fingerprint/functions-a8eafa479f15270a/bin-functions
+functions/target/rls/debug/.fingerprint/functions-a8eafa479f15270a/dep-bin-functions

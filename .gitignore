@@ -149,3 +149,15 @@ functions/target/rls/debug/.cargo-lock
 functions/target/rls/debug/.fingerprint/functions-6619127e9983bbeb/test-bin-functions
 functions/target/rls/debug/.fingerprint/functions-a8eafa479f15270a/bin-functions
 functions/target/rls/debug/.fingerprint/functions-a8eafa479f15270a/dep-bin-functions
+owner/target/rls/debug/.fingerprint/owner-7e208c6ebaaeee73/dep-bin-owner
+owner/target/rls/debug/.cargo-lock
+owner/target/rls/debug/.fingerprint/owner-121bc99e5c98ddc3/dep-test-bin-owner
+owner/target/rls/debug/.fingerprint/owner-7e208c6ebaaeee73/bin-owner
+owner/target/rls/debug/.fingerprint/owner-121bc99e5c98ddc3/test-bin-owner
+owner/target/debug/deps/owner-e6a130f5d7327c19
+owner/target/debug/.fingerprint/owner-e6a130f5d7327c19/dep-bin-owner
+owner/target/debug/.fingerprint/owner-7e208c6ebaaeee73/dep-bin-owner
+owner/target/debug/.fingerprint/owner-e6a130f5d7327c19/bin-owner
+owner/target/debug/.fingerprint/owner-7e208c6ebaaeee73/bin-owner
+owner/target/debug/owner
+owner/target/debug/.cargo-lock

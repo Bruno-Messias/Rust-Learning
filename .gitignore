@@ -193,3 +193,13 @@ struct_funtion/target/debug/.fingerprint/struct_funtion-e5630064eb2b3fce/dep-bin
 struct_funtion/target/debug/.fingerprint/struct_funtion-e5630064eb2b3fce/bin-struct_funtion
 struct_funtion/target/debug/struct_funtion
 struct_funtion/target/debug/.cargo-lock
+enum_match/target/debug/.cargo-lock
+enum_match/target/debug/enum_match
+enum_match/target/debug/.fingerprint/enum_match-d6b90a7f84297491/dep-bin-enum_match
+enum_match/target/debug/.fingerprint/enum_match-d6b90a7f84297491/bin-enum_match
+enum_match/target/debug/deps/enum_match-d6b90a7f84297491
+enum_match/target/rls/debug/.cargo-lock
+enum_match/target/rls/debug/.fingerprint/enum_match-38f6171884d8f915/dep-test-bin-enum_match
+enum_match/target/rls/debug/.fingerprint/enum_match-38f6171884d8f915/test-bin-enum_match
+enum_match/target/rls/debug/.fingerprint/enum_match-9b83b7f20757388b/bin-enum_match
+enum_match/target/rls/debug/.fingerprint/enum_match-9b83b7f20757388b/dep-bin-enum_match

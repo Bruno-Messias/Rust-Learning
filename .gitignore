@@ -212,3 +212,12 @@ if_let/target/rls/debug/.fingerprint/if_let-5d1ffc38bdf4990f/bin-if_let
 if_let/target/rls/debug/.fingerprint/if_let-5d1ffc38bdf4990f/dep-bin-if_let
 if_let/target/rls/debug/.fingerprint/if_let-82a0b0fc4191053c/test-bin-if_let
 if_let/target/rls/debug/.fingerprint/if_let-82a0b0fc4191053c/dep-test-bin-if_let
+restaurant/target/debug/.cargo-lock
+restaurant/target/debug/.fingerprint/restaurant-19de81371970e4ab/dep-lib-restaurant
+restaurant/target/debug/.fingerprint/restaurant-19de81371970e4ab/lib-restaurant
+restaurant/target/rls/debug/.cargo-lock
+restaurant/target/debug/.fingerprint/restaurant-19de81371970e4ab/output-lib-restaurant
+restaurant/target/rls/debug/.fingerprint/restaurant-5f00742f8a39dfce/dep-test-lib-restaurant
+restaurant/target/rls/debug/.fingerprint/restaurant-5f00742f8a39dfce/test-lib-restaurant
+restaurant/target/rls/debug/.fingerprint/restaurant-9d9dc74c2a488cf9/dep-lib-restaurant
+restaurant/target/rls/debug/.fingerprint/restaurant-9d9dc74c2a488cf9/lib-restaurant

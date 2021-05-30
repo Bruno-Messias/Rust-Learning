@@ -204,3 +204,11 @@ enum_match/target/rls/debug/.fingerprint/enum_match-38f6171884d8f915/test-bin-en
 enum_match/target/rls/debug/.fingerprint/enum_match-9b83b7f20757388b/bin-enum_match
 enum_match/target/rls/debug/.fingerprint/enum_match-9b83b7f20757388b/dep-bin-enum_match
 enum_match/target/debug/.fingerprint/enum_match-d6b90a7f84297491/output-bin-enum_match
+if_let/target/debug/.cargo-lock
+if_let/target/debug/.fingerprint/if_let-5d1ffc38bdf4990f/bin-if_let
+if_let/target/debug/.fingerprint/if_let-5d1ffc38bdf4990f/dep-bin-if_let
+if_let/target/rls/debug/.cargo-lock
+if_let/target/rls/debug/.fingerprint/if_let-5d1ffc38bdf4990f/bin-if_let
+if_let/target/rls/debug/.fingerprint/if_let-5d1ffc38bdf4990f/dep-bin-if_let
+if_let/target/rls/debug/.fingerprint/if_let-82a0b0fc4191053c/test-bin-if_let
+if_let/target/rls/debug/.fingerprint/if_let-82a0b0fc4191053c/dep-test-bin-if_let

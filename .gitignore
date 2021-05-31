@@ -221,3 +221,11 @@ restaurant/target/rls/debug/.fingerprint/restaurant-5f00742f8a39dfce/dep-test-li
 restaurant/target/rls/debug/.fingerprint/restaurant-5f00742f8a39dfce/test-lib-restaurant
 restaurant/target/rls/debug/.fingerprint/restaurant-9d9dc74c2a488cf9/dep-lib-restaurant
 restaurant/target/rls/debug/.fingerprint/restaurant-9d9dc74c2a488cf9/lib-restaurant
+multiple_files/target/debug/.cargo-lock
+multiple_files/target/debug/.fingerprint/multiple_files-e3996e227cbfb3c1/dep-lib-multiple_files
+multiple_files/target/debug/.fingerprint/multiple_files-e3996e227cbfb3c1/lib-multiple_files
+multiple_files/target/rls/debug/.cargo-lock
+multiple_files/target/rls/debug/.fingerprint/multiple_files-06f0b63e953b49c8/dep-test-lib-multiple_files
+multiple_files/target/rls/debug/.fingerprint/multiple_files-06f0b63e953b49c8/test-lib-multiple_files
+multiple_files/target/rls/debug/.fingerprint/multiple_files-f23ab8cea7f04141/dep-lib-multiple_files
+multiple_files/target/rls/debug/.fingerprint/multiple_files-f23ab8cea7f04141/lib-multiple_files

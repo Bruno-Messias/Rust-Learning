@@ -44,6 +44,17 @@ mod back_of_house {
     fn cook_order() {}
 }
 
+use self::front_of_house::hosting;
+//pub use crate::front_of_house::hosting; Re-exporting pub
+use std::io::Result as IoResult;
+use std::{cmp::Ordering, io};   //Nested calling (Original: use std::cmp::Ordering;
+                                //                        use std::io;) 
+//use std::io::{self, Write}; // Nested self calling( Original:   use std::io;
+                                //                                  use std::io::Write;)
+use std::collections::*; //Bring all public itens from the calling
+
+
+
 pub fn eat_at_restaurant() {
 
     // Absolute path
@@ -64,4 +75,8 @@ pub fn eat_at_restaurant() {
 
     let order1 = back_of_house::Appetizer::Soup;
     let order2 = back_of_house::Appetizer::Salad;
+
+    hosting::add_to_waitlist();
+    hosting::add_to_waitlist();
+    hosting::add_to_waitlist();
 }

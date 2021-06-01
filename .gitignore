@@ -229,3 +229,13 @@ multiple_files/target/rls/debug/.fingerprint/multiple_files-06f0b63e953b49c8/dep
 multiple_files/target/rls/debug/.fingerprint/multiple_files-06f0b63e953b49c8/test-lib-multiple_files
 multiple_files/target/rls/debug/.fingerprint/multiple_files-f23ab8cea7f04141/dep-lib-multiple_files
 multiple_files/target/rls/debug/.fingerprint/multiple_files-f23ab8cea7f04141/lib-multiple_files
+collections/target/debug/deps/collections-79622f56a55cd166
+collections/target/debug/.fingerprint/collections-79622f56a55cd166/dep-bin-collections
+collections/target/debug/.fingerprint/collections-79622f56a55cd166/bin-collections
+collections/target/debug/collections
+collections/target/debug/.cargo-lock
+collections/target/rls/debug/.fingerprint/collections-98ae00bc2ecf6908/dep-test-bin-collections
+collections/target/rls/debug/.fingerprint/collections-98ae00bc2ecf6908/test-bin-collections
+collections/target/rls/debug/.fingerprint/collections-844fff74d720e358/dep-bin-collections
+collections/target/rls/debug/.fingerprint/collections-844fff74d720e358/bin-collections
+collections/target/rls/debug/.cargo-lock

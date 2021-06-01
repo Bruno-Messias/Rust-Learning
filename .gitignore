@@ -239,3 +239,14 @@ collections/target/rls/debug/.fingerprint/collections-98ae00bc2ecf6908/test-bin-
 collections/target/rls/debug/.fingerprint/collections-844fff74d720e358/dep-bin-collections
 collections/target/rls/debug/.fingerprint/collections-844fff74d720e358/bin-collections
 collections/target/rls/debug/.cargo-lock
+error_handler/target/debug/.cargo-lock
+error_handler/target/debug/error_handler
+error_handler/target/debug/.fingerprint/error_handler-106f3f335ea55051/bin-error_handler
+error_handler/target/debug/.fingerprint/error_handler-106f3f335ea55051/dep-bin-error_handler
+error_handler/target/debug/deps/error_handler-106f3f335ea55051
+error_handler/target/debug/.fingerprint/error_handler-106f3f335ea55051/output-bin-error_handler
+error_handler/target/rls/debug/.cargo-lock
+error_handler/target/rls/debug/.fingerprint/error_handler-4b6aeb0336778ac3/dep-test-bin-error_handler
+error_handler/target/rls/debug/.fingerprint/error_handler-4b6aeb0336778ac3/test-bin-error_handler
+error_handler/target/rls/debug/.fingerprint/error_handler-b65b31b4f494c21b/bin-error_handler
+error_handler/target/rls/debug/.fingerprint/error_handler-b65b31b4f494c21b/dep-bin-error_handler

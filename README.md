@@ -18,3 +18,12 @@
 ## TODO
 
 - [ ] Add description of cargo commands
+
+## Cargo.toml
+
+```[.toml]
+[profile.release]
+panic = 'abort' 
+```
+
+Adding to .toml to abort in case of panic(do not clean the stack)

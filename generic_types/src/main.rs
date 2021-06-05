@@ -1,5 +1,6 @@
-//? use lib::{self, Summary, Tweet};
-//TODO: how to linking to the lib?
+mod lib;
+
+use lib::{Summary, Tweet, NewsArticle};
 
 fn largest_i32(list: &[i32]) -> i32 {
     let mut largest = list[0];
@@ -82,14 +83,39 @@ fn main() {
 
     println!("p3.x = {}, p3.y = {}", p3.x, p3.y);
 
-    // let tweet = Tweet {
-    //     username: String::from("horse_ebooks"),
+    let tweet = Tweet {
+        username: String::from("horse_ebooks"),
+        content: String::from(
+            "of course, as you probably already know, people",
+        ),
+        reply: false,
+        retweet: false,
+    };
+
+    println!("1 new tweet: {}", tweet.summarize());
+
+    // let article = NewsArticle {
+    //     headline: String::from("Penguins win the Stanley Cup Championship!"),
+    //     location: String::from("Pittsburgh, PA, USA"),
+    //     author: String::from("Iceburgh"),
     //     content: String::from(
-    //         "of course, as you probably already know, people",
+    //         "The Pittsburgh Penguins once again are the best \
+    //          hockey team in the NHL.",
     //     ),
-    //     reply: false,
-    //     retweet: false,
     // };
 
-    // println!("1 new tweet: {}", tweet.summarize());
+    // println!("New article available! {}", article.summarize());
+
+    //Trait as parameters
+    pub fn notify(item: &impl Summary) {
+        println!("Breaking news! {}", item.summarize());
+    }
+
+    //Trait bound
+    // pub fn notify<T: Summary>(item: &T) {
+    //     println!("Breaking news! {}", item.summarize());
+    // }
+
+    //TODO: Study better trait as paramenters
+    //TODO: Lifetime anotation
 }
